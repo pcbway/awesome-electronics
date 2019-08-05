@@ -104,6 +104,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [OSH Park](https://oshpark.com) - Low cost PCB batching service with high quality boards with a signature purple silkscreen.
 - [Aisler](https://aisler.net) - Affordable quality circuit boards made in and shipped from Europe (Germany).
 - [Dirty PCBs](http://dirtypcbs.com/store/pcbs) - Low cost PCB batching service that prides itself on its "dirty" quality.
+- [PCBWay](https://pcbway.com/b) - Chinese PCB prototype and assembly service manufacturer,high quality and very cheap
 
 ## Part Search Engines
 - [Octopart](https://octopart.com) - Probably the most well known part search engine.
@@ -114,6 +115,7 @@ This list is for websites, services, software, tools and more: everything that y
 ## Project Sharing Platforms
 - [Kitspace.org](https://kitspace.org) - Project sharing site that helps you buy parts and re-build projects. Open source and developed by yours truly.
 - [Hackaday.io](https://hackaday.io) - Social site for sharing projects from the popular blog.
+- [Hackster forum](https://www.hackster.com) - Hackster.io, an Avnet community, is the world's largest network for hardware & software developers.
 
 ## Inventory Management and Purchasing
 - [1-click BOM](https://1clickbom.com) - Browser extensions that automates purchasing and part searching.
@@ -141,6 +143,7 @@ This list is for websites, services, software, tools and more: everything that y
 ### Discussion
 - [EEVBlog forum](https://www.eevblog.com/forum/) - Probably the largest and most active forum to discuss electronic engineering topics.
 - [/r/electronics](https://www.reddit.com/r/electronics/) and [/r/ECE](https://www.reddit.com/r/ECE/) are the two most active sub-reddits for EE topics.
+
 
 ### Help
  - [/r/askelectronics](https://www.reddit.com/r/AskElectronics/) - Sub-reddit dedicated to help on electronics topics.
